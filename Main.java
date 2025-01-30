@@ -9,7 +9,7 @@
 // Just as you add products to subcategories, you can also add subcategories to the main category.
 // This approach follows the Composite Pattern, where the structure forms a tree or hierarchical format.
 
-
+// Sample changes
 
 import java.util.ArrayList;
 import java.util.List;
